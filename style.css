@@ -112,11 +112,11 @@ nav.nav-menu {
     color: #000000;
   }
   a {
-    color: #000000;
+    color: #b99d12;
     text-underline-position: below;
   }
   a:hover{
-    color: #b99d12;
+    color: #000000;
   }
   section {
     margin-bottom: 20px;
